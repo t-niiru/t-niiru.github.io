@@ -1,2 +1,13 @@
 theme: jekyll-theme-hacker
 google_analytics: UA-122741037-1
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+footer-links:
+  facebook: https://www.facebook.com/t.niiru
+  github: t-niiru
